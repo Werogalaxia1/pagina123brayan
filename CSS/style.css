@@ -1,0 +1,60 @@
+body{
+    background-image: url(images/60393187-resumen-de-vectores-de-colores-de-fondo-material-de-la-plaza-para-el-sitio-web-teléfono-impresión-y-.webp)
+}
+
+#pag{
+text-align: left;
+color: rgb(160, 108, 209);
+
+}
+.menu li {
+list-style: none;
+color: rgb(247, 40, 40);
+display: inline;
+background: rgb(226, 247, 109);
+margin: 0 20px;
+border-radius: 5px;
+padding: 5px 5px 5px 5px;
+}
+#encabezado{
+    color: #000;
+    width: 80%;
+    margin: 10px 10%;
+    border-radius: 15px;
+    padding: 10px 10px 10px 10px;
+    background-color: #2CEED4 ;
+}
+#seccion1{
+    float: left;
+    width: 38%;
+    height: 300px;
+    margin: 0 0 0 10%;
+    background-color: rgb(163, 114, 209);
+    padding: 10px 10px 10px 10px;
+
+}
+#seccion2{
+    float: left;
+    width: 38%;
+    height: 300px;
+    margin: 0 9% 0 0;
+    background-color: rgb(209, 109, 184);
+    padding: 10px 10px 10px 10px;
+    
+}
+#hobbies{
+    width: 50%;
+    margin: 10px 10%;
+    border-radius: 20px;
+    padding: 5px 5px 5px 5px;
+   background-color: rgb(56, 228, 84);
+}
+#web{
+    text-align: center;
+    color: rgb(233, 25, 25);
+}
+
+#H1{
+    text-align: center;
+    color: #000;
+}
